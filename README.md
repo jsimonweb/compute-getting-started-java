@@ -70,8 +70,9 @@ You may need to set your `JAVA_HOME` environment variable as well.
   cd some_directory
   git clone https://github.com/GoogleCloudPlatform/compute-getting-started-java.git
   cd compute-getting-started-java</pre>
-   <pre># In a text editor open the ComputeEngineSample.java file. For example, to edit the file with nano:
-  nano src/main/java/com/google/api/services/samples/computeengine/cmdline/ComputeEngineSample.java</pre>
+   <pre lang="shell"><code># In a text editor open the ComputeEngineSample.java file. For example, to edit the file with nano:
+  nano src/main/java/com/google/api/services/samples/computeengine/cmdline/ComputeEngineSample.java
+   <code></pre>
 
   1. In your text editor update the `YOUR_PROJECT_ID` value in
   [`src/main/java/com/google/api/services/samples/computeengine/cmdline/ComputeEngineSample.java`][5]
